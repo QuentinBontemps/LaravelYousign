@@ -1,0 +1,25 @@
+{
+  "name": "quentinbontemps/laravel-yousign",
+  "require": {
+    "illuminate/support": "^5.6",
+    "yousign/yousign-api-client": "^2.0"
+  },
+  "authors": [
+    {
+      "name": "Quentin BONTEMPS",
+      "email": "q.bontemps@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "QuentinBontemps\\LaravelYousign\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "QuentinBontemps\\LaravelYousign\\LaravelYousignServiceProvider"
+      ]
+    }
+  }
+}
