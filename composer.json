@@ -24,5 +24,7 @@
         "QuentinBontemps\\LaravelYousign\\LaravelYousignServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
