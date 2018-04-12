@@ -1,12 +1,14 @@
 {
   "name": "quentinbontemps/laravel-yousign",
+  "description": "Client Laravel pour l'API Yousign",
+  "keywords": ["laravel", "laravel5", "yousign", "api"],
   "require": {
     "illuminate/support": "^5.6",
     "yousign/yousign-api-client": "^2.0"
   },
   "type": "library",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     {
       "name": "Quentin BONTEMPS",

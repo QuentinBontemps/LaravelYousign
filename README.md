@@ -1,11 +1,11 @@
-# Client Laravel pour utiliser l'API SOAP Yousign
+# Client Laravel pour utiliser l'API SOAP Yousign
 
 ## Description
 Le package utilise le package [Yousign/yousign-api-client-php](https://github.com/Yousign/yousign-api-client-php).
 
 Ce client permet d'utiliser l'[API Soap de Yousign](http://developer.yousign.fr) via le langage PHP.
 
-## Éléments requis
+## Éléments requis
 - composer
 - PHP 7.0
 - Extension php-soap sur votre serveur
