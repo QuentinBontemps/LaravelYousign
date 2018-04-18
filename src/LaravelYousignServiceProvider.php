@@ -4,6 +4,10 @@ use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
 use QuentinBontemps\LaravelYousign\Services\LaravelYousign;
 
+/**
+ * Class LaravelYousignServiceProvider
+ * @package QuentinBontemps\LaravelYousign
+ */
 class LaravelYousignServiceProvider extends ServiceProvider
 {
 

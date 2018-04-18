@@ -3,6 +3,10 @@
 
 use Illuminate\Support\Facades\Facade;
 
+/**
+ * Class LaravelYousign
+ * @package QuentinBontemps\LaravelYousign\Facades
+ */
 class LaravelYousign extends Facade
 {
 
