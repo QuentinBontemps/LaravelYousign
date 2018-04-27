@@ -7,7 +7,7 @@ Ce client permet d'utiliser l'[API Soap de Yousign](http://developer.yousign.fr)
 
 ## Éléments requis
 - composer
-- PHP 7.0
+- PHP >= 5.6
 - Extension php-soap sur votre serveur
 
 ## Installation
