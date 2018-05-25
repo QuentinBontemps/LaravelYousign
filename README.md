@@ -15,6 +15,16 @@ Ce client permet d'utiliser l'[API Soap de Yousign](http://developer.yousign.fr)
 composer require quentinbontemps/laravel-yousign
 ```
 
+Pour les versions de Laravel inférieures à la 5.5 vous devez ajouter le ServiceProvider dans fichier ```config/app.php```
+
+```php
+'providers' => [
+    .... 
+    \QuentinBontemps\LaravelYousign\LaravelYousignServiceProvider::class,
+],
+```
+À partir de la 5.5 le chargement du ServiceProvider se fera automatiquement.
+
 ## Configuration
 
 Vous devez définir vos identifiants Yousign.
