@@ -3,7 +3,7 @@
   "description": "Client Laravel pour l'API Yousign",
   "keywords": ["laravel", "laravel5", "yousign", "api"],
   "require": {
-    "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+    "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*",
     "yousign/yousign-api-client": "^2.0"
   },
   "type": "library",
